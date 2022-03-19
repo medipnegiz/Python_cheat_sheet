@@ -1,1 +1,1 @@
-# my_dictionary
+# Python bütün ders calisma notlarim
