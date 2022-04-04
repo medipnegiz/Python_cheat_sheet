@@ -1,5 +1,3 @@
-
-a = int(input('Sayiyi giriniz: '))
 def fonksiyonum(a):
     while True:
         if a % 2 == 0:
