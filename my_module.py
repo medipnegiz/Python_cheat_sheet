@@ -1,8 +1,11 @@
+"""
+Bu kisim fonksiyon tanimi olarak yazilmistir.
+Bu fonksiyon üs alma islemi yapar...
+"""
+
+__all__= ['fonksiyonum']        #   modul icerisindeki fonksiyonu secilebilir yapar
+
 def fonksiyonum(a):
-    while True:
-        if a % 2 == 0:
-            return print(f'{a} sayinin karesi:', a**2)
-            break
-        else:
-            a = a + 1
-fonksiyonum(5)
+    return print('sayinin karesi: ',a**2)
+if __name__ == '__main__':                      #   modül olarak cagirilirsa buranin altini yazdirmaz
+    print('sayinin karesi: ', fonksiyonum(8))
