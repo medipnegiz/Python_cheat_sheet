@@ -1,4 +1,4 @@
-# Python Cheat Sheet
+# Python Cheat Sheet 📜
 
 ### 🔖 String kod kullanimlari
 ### 🔖 TRUE ve FALSE ifadelerin kullanimi
