@@ -1,6 +1,6 @@
 # Python Cheat Sheet
 
-### String kod kullanimlari
+### 🏷 String kod kullanimlari
 ### TRUE ve FALSE ifadelerin kullanimi
 ### Matematiksel islemler
 ### Dilimleme yöntemleri
