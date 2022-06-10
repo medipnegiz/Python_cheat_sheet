@@ -1,6 +1,7 @@
 # Python Cheat Sheet 📜
 
 ### 🔖 String komut kullanimlari
+### 🔖 Satir ve metin düzeni
 ### 🔖 TRUE ve FALSE ifadelerin kullanimi
 ### 🔖 Matematiksel islemler
 ### 🔖 Dilimleme yöntemleri
