@@ -6,7 +6,7 @@
 </p>
 <hr>
 
-## İçindekiler (Index)
+## İçindekiler (Index) 📜
 
 ### 🔖 String komut kullanimlari
 ### 🔖 Satir ve metin düzeni
