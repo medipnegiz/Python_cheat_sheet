@@ -1,4 +1,4 @@
-# Python Calisma Notlari  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Python Calisma Notlari (Python Cheat Sheet)  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <hr>
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 <hr>
 
-## İçindekiler
+## İçindekiler (Index)
 
 ### 🔖 String komut kullanimlari
 ### 🔖 Satir ve metin düzeni
